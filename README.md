@@ -2,7 +2,7 @@
 
 ---
 This repository contains a method to generate 3D conformer ensembles directly from the molecular graph as described in
-our [paper](https://arxiv.org/pdf/2106.07802.pdf). 
+our [paper](https://arxiv.org/pdf/2106.07802.pdf) ([slides](https://people.csail.mit.edu/oct/geomol.pdf)). 
 
 
 ## Requirements
